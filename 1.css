@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+div.introduce{
+    width:1000px;
+    margin:100px auto;
+    
+}
+div.a1{
+    color:#af201c;
+    font-size:48px;
+    font-weight: bold;
+    text-align: center;
+}
+div.text{
+    color:#fff;
+    background-color: #666;
+    font-size:24px;
+    margin-top:65px;
+    padding-top:105px;
+    padding-right:26px;
+    padding-left:26px;
+    line-height:48px;
+    text-align:justify}
+div img{
+    display: block;
+    width:900px;
+    margin:0 auto;
+}
+
+    
